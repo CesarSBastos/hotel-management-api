@@ -1,8 +1,4 @@
-# Desafio - Autenticação e autorização
-
-Praticar os conceitos de autenticação e autorização seguindo as orientações do desafio.
-
-
+# Api com Autenticação e autorização
 
 ## Getting Started
 
